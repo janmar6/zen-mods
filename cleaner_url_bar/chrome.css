@@ -1,0 +1,8 @@
+:root[zen-single-toolbar="true"]:not([customizing]) {
+
+    #identity-icon-box,
+    #identity-permission-box,
+    #urlbar-zoom-button {
+        display: none !important;
+    }
+}
